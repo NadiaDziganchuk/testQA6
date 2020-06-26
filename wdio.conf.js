@@ -18,7 +18,7 @@ exports.config = {
     //
     specs: [
         // './test/specs/**/*.js',
-        './test/specs/**/practis06.25.2020.js',
+        // './test/specs/**/practis06.25.2020.js',
     ],
     // Patterns to exclude.
     exclude: [
